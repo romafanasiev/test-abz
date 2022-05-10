@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/romafanasiev.github.io/my-app/static/css/main.08185491.css",
+    "main.js": "/romafanasiev.github.io/my-app/static/js/main.312923e2.js",
+    "static/js/787.6a445220.chunk.js": "/romafanasiev.github.io/my-app/static/js/787.6a445220.chunk.js",
+    "static/media/success-image.svg": "/romafanasiev.github.io/my-app/static/media/success-image.0d3202ba11b04fa7364b0f83ce42aea5.svg",
+    "index.html": "/romafanasiev.github.io/my-app/index.html",
+    "main.08185491.css.map": "/romafanasiev.github.io/my-app/static/css/main.08185491.css.map",
+    "main.312923e2.js.map": "/romafanasiev.github.io/my-app/static/js/main.312923e2.js.map",
+    "787.6a445220.chunk.js.map": "/romafanasiev.github.io/my-app/static/js/787.6a445220.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08185491.css",
+    "static/js/main.312923e2.js"
+  ]
+}
